@@ -1,0 +1,18 @@
+{
+  "name": "@mymicds/configs",
+  "version": "1.0.0",
+  "description": "Common config files used in MyMICDS projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyMICDS/configs.git"
+  },
+  "author": "MyMICDS Development Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MyMICDS/configs/issues"
+  },
+  "homepage": "https://github.com/MyMICDS/configs#readme"
+}

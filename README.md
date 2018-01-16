@@ -1,2 +1,2 @@
-# MyMICDS Common Configurations
-This repository houses common configuration files that are used across many MyMICDS projects.
+# MyMICDS Common Configs
+This repository houses configuration files that are commonly used in MyMICDS projects.
