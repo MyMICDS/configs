@@ -1,0 +1,1 @@
+# MyMICDS Linter Configurations
