@@ -19,7 +19,12 @@
 		"semicolon": [true, "always"],
 		"trailing-comma": [true, { "multiline": "never", "singleline": "never" }],
 		"variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore"],
-		"no-empty-interface": false
+		"no-empty-interface": false,
+		"space-before-function-paren": ["error", {
+			"anonymous": "never",
+			"named": "never",
+			"asyncArrow": "always"
+		}]
 	},
 	"rulesDirectory": []
 }
